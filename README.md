@@ -1,6 +1,6 @@
 👋 Hi there, I’m @solomonasad
  
- Welcome to my GitHub Profile! I am a first year Engineering Science student at the University of Toronto.
+ Welcome to my GitHub Profile! I am a second year Engineering Science student at the University of Toronto.
 - 👀 I’m interested in robotic research and love building robots.
 - 🌱 I’m currently learning C++/Python/MATLAB to help me in my projects.
 - 💞️ I’m looking to collaborate on robotic projects. 
